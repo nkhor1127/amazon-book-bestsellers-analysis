@@ -1,0 +1,168 @@
+"author","count_books","avg_rating","avg_price"
+"Colleen Hoover",8,4.40,12.93
+"Daniel Kahneman",8,4.39,15.03
+"Matthew Stover",8,4.38,19.76
+"Taylor Jenkins Reid",8,4.40,19.16
+"Viola Davis",7,4.37,20.31
+"Ta-Nehisi Coates",7,4.34,20.86
+"Kim Stanley Robinson",6,4.40,13.79
+"James Clear",6,4.43,15.51
+"Charlotte McConaghy",6,4.48,16.04
+"Rick Rubin",6,4.43,18.75
+"Isabel Wilkerson",6,4.32,16.40
+"Publications International",6,4.42,21.65
+"Jonathan Haidt",6,4.57,19.73
+"Robin DiAngelo",5,4.48,17.80
+"Trevor Noah",5,4.36,16.22
+"Paul Tremblay",5,4.44,19.40
+"Morgan Housel",5,4.42,15.22
+"Dean Koontz",5,4.58,13.63
+"Peter F. Hamilton",5,4.24,19.98
+"Freida McFadden",5,4.40,10.59
+"Mark Manson",5,4.42,17.87
+"Nassim Taleb",5,4.38,13.76
+"Andy Weir",5,4.62,11.43
+"Tomi Adeyemi",5,4.62,17.93
+"Doris Kearns Goodwin",5,4.26,19.50
+"Rhonda Byrne",5,4.56,18.82
+"Greg Bear",5,4.26,17.94
+"Daniel Pink",5,4.36,17.02
+"Jeffrey Mason",5,4.20,16.00
+"Seth Godin",5,4.30,17.61
+"Various",5,4.52,18.94
+"Cinda Williams Chima",4,4.53,16.92
+"Arianna Huffington",4,4.23,16.59
+"Thich Nhat Hanh",4,4.33,11.05
+"Frank Herbert",4,4.53,14.68
+"Kelly Link",4,4.25,17.26
+"Jodi Picoult",4,4.50,13.74
+"Patricia A. McKillip",4,4.45,17.99
+"Robin Hobb",4,4.45,10.76
+"Emily St. John Mandel",4,4.20,14.54
+"Bonnie Garmus",4,4.53,17.54
+"Orson Scott Card",4,4.43,9.90
+"John Grisham",4,4.30,18.49
+"Jeff Kinney",4,4.38,16.30
+"Liane Moriarty",4,4.15,14.51
+"Malcolm Gladwell",4,4.23,16.33
+"Tamora Pierce",4,4.53,19.02
+"Carmen Maria Machado",4,4.30,16.09
+"Adam Grant",4,4.40,16.71
+"Michael Pollan",4,4.50,13.24
+"Mary Kubica",4,4.23,15.80
+"Jon Meacham",4,4.55,16.34
+"Mary Karr",4,4.43,12.96
+"Peter Attia",4,4.43,19.62
+"David Grann",4,4.48,17.81
+"Michael J. Sullivan",4,4.48,14.10
+"Virginia Evans",4,4.78,17.60
+"Joyce Meyer",4,4.15,11.47
+"Octavia Butler",3,4.33,20.65
+"Vince Flynn",3,4.53,14.98
+"Rebecca Yarros",3,4.57,22.26
+"Demi Moore",3,4.40,12.16
+"Mercedes Lackey",3,4.27,15.45
+"Dav Pilkey",3,4.67,16.44
+"Ryan Holiday",3,4.27,22.30
+"Tim Ferriss",3,4.37,13.59
+"Martin Seligman",3,4.43,19.44
+"Sarah J. Maas",3,4.77,15.82
+"Suzanne Collins",3,4.67,20.39
+"Robert Sapolsky",3,4.47,18.25
+"Nnedi Ofofor",3,4.70,22.42
+"Piers Anthony",3,4.10,17.66
+"Simon Sinek",3,4.43,19.61
+"David Eddings",3,4.13,16.83
+"Anthony Ryan",3,4.60,23.73
+"Bell Hooks",3,4.43,24.47
+"Brandon Sanderson",3,4.43,14.83
+"Cassandra Clare",3,4.53,17.45
+"Gloria Steinem",3,4.23,17.91
+"Gabor Maté",3,4.50,22.09
+"Erik Larson",3,4.50,23.74
+"Carol Dweck",3,4.27,15.73
+"Bob Woodward",3,4.57,21.29
+"Ben Greenfield",3,4.37,14.32
+"Naomi Novik",3,4.27,9.56
+"Bryan Johnson",3,4.47,11.71
+"Cal Newport",3,4.37,20.25
+"Robert Kiyosaki",3,4.40,11.28
+"Oprah Winfrey",3,4.17,9.66
+"Neil Gaiman",3,4.47,13.95
+"Alan Dean Foster",2,4.40,13.10
+"Walter Isaacson",2,4.55,15.33
+"Tahereh Mafi",2,4.30,19.16
+"Tara Westover",2,4.15,16.01
+"Matthew Walker",2,4.45,18.24
+"Andrew Huberman",2,4.50,11.75
+"Prince Harry",2,4.30,26.05
+"Jack Reacher",2,4.40,26.09
+"Lee Child",2,4.40,21.03
+"Rainbow Rowell",2,4.30,10.65
+"Britney Spears",2,4.55,24.55
+"Patrick Rothfuss",2,4.50,15.82
+"Ursula K. Le Guin",2,4.80,19.49
+"Viktor Frankl",2,4.40,24.38
+"Eckhart Tolle",2,4.20,21.82
+"Matt Haig",2,4.20,13.06
+"Ibram X. Kendi",2,4.45,9.10
+"V.E. Schwab",2,4.05,16.26
+"Jeannette Walls",2,4.40,13.95
+"Veronica Roth",2,4.75,16.56
+"James Dashner",2,4.40,13.79
+"Robin McKinley",2,4.70,21.59
+"Workman Publishing",2,4.10,13.74
+"Robert Asprin",2,4.55,20.89
+"Susanna Clarke",2,4.60,16.72
+"Leigh Bardugo",2,4.45,16.08
+"Lisa Jewell",2,4.40,17.50
+"Gary Vaynerchuk",2,4.25,15.45
+"Edith Eger",2,4.30,8.92
+"Brad Thor",2,4.60,17.78
+"Tony Robbins",2,4.00,17.03
+"Brent Weeks",2,4.50,19.82
+"Terry Pratchett",2,4.65,20.90
+"Bessel van der Kolk",2,4.50,14.46
+"Paula Hawkins",2,4.25,13.01
+"David Goggins",2,4.55,15.81
+"Deepak Chopra",2,4.35,19.40
+"Barack Obama",2,4.50,17.22
+"Gillian Flynn",2,4.75,17.26
+"Morgan Rhodes",2,4.45,15.92
+"Nora Roberts",2,4.15,22.98
+"Raina Telgemeier",1,4.60,11.09
+"Gabrielle Zevin",1,4.40,14.99
+"Angela Duckworth",1,4.80,16.80
+"Sabaa Tahir",1,4.10,8.69
+"Dave Ramsey",1,4.70,12.69
+"Dalai Lama",1,4.00,11.04
+"Brené Brown",1,4.20,12.54
+"Daniel Silva",1,4.60,17.81
+"Joe Abercrombie",1,4.60,22.20
+"Lauren Groff",1,4.60,22.64
+"Rick Warren",1,4.50,26.47
+"Louise Hay",1,4.20,23.95
+"Brian McClellan",1,4.40,31.26
+"Rick Riordan",1,4.60,16.08
+"John Green",1,4.60,20.61
+"Mel Robbins",1,4.70,14.99
+"N.K. Jemisin",1,4.60,10.68
+"James Patterson",1,4.30,11.25
+"Angela Rizza",1,4.70,12.99
+"Alysia Abbott",1,4.50,20.00
+"Dr. Seuss",1,4.90,12.99
+"Stephen King",1,4.30,11.55
+"David Sinclair",1,4.50,25.29
+"Mark Lawrence",1,4.10,15.33
+"Anne McCaffrey",1,4.40,19.28
+"Nicholas Sparks",1,4.20,9.38
+"J.K. Rowling",1,4.30,27.98
+"Michael Connelly",1,4.50,16.04
+"Tana French",1,4.50,18.02
+"Pema Chödrön",1,4.00,9.61
+"Alastair Reynolds",1,4.10,9.85
+"Kevin J. Anderson",1,4.50,20.91
+"Hernan Diaz",1,4.20,6.00
+"Dan Simmons",1,4.40,10.29
+"Matthew McConaughey",1,4.50,17.99
+"Victoria Aveyard",1,4.30,24.79
